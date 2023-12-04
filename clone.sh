@@ -38,6 +38,6 @@ echo cloning mozillaconfig
 git clone https://github.com/Henry-Savary-Jackson/mozillaconfig ~/
 
 echo cloning mycodingstuff 
-git clone https://github.com/Henry-Savary-Jackson/mycodingstuff ~/
+git clone https://github.com/Henry-Savary-Jackson/codingstuff ~/
 
 echo done
